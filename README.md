@@ -58,7 +58,6 @@ Relaciones funcionales entre casos de uso:
 - "Consultar equipos" puede extenderse con "Consultar jugadores".
 - "Crear torneo" incluye "Inscribir equipos".
 
----
 
 ## 2. Identificación de los casos de uso y elaboración del diagrama
 
@@ -96,7 +95,6 @@ Se identifican las interacciones clave entre los actores y el sistema, agrupadas
 - Consultar equipos <<extend>> Consultar jugadores
 - Crear torneo <<include>> Inscribir equipos
 
----
 
 ## 3. Identificación de clases y relaciones
 
@@ -126,8 +124,9 @@ Se identifican las interacciones clave entre los actores y el sistema, agrupadas
 - Composición: Torneo — Partidas, Torneo — Premios
 - Dependencia: Vistas → Controladores
 
----
-![Diagrama de casos de uso](Diagrama casos de uso.jpg)
+![Diagrama de casos de uso](Actividad3-JesusPastorRicoy
+/Diagrama casos de uso.jpg)
+
 ## 4. Creación del diagrama de clases UML
 
 ### Estructura general
@@ -150,7 +149,6 @@ Cada clase incluye:
 
 El resultado es un diseño coherente, estructurado y listo para implementarse en Java.
 ![Diagrama de clases](Diagrama de clases.jpg)
----
 
 ## 5. Justificación del diseño
 
@@ -176,7 +174,6 @@ Las relaciones entre clases han sido seleccionadas con atención al significado 
 
 Esta organización facilita la futura implementación en Java y garantiza que el sistema sea mantenible, modular y comprensible.
 
----
 
 ## 6. Conclusiones
 
