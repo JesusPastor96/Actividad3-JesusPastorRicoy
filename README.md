@@ -124,8 +124,8 @@ Se identifican las interacciones clave entre los actores y el sistema, agrupadas
 - Composición: Torneo — Partidas, Torneo — Premios
 - Dependencia: Vistas → Controladores
 
-![Diagrama de casos de uso](Actividad3-JesusPastorRicoy
-/Diagrama casos de uso.jpg)
+![Diagrama de casos de uso]([Actividad3-JesusPastorRicoy
+/Diagrama casos de uso.jpg](https://github.com/JesusPastor96/Actividad3-JesusPastorRicoy/blob/main/Diagrama%20casos%20de%20uso.jpg))
 
 ## 4. Creación del diagrama de clases UML
 
