@@ -148,7 +148,7 @@ Cada clase incluye:
   - Dependencias (línea discontinua)
 
 El resultado es un diseño coherente, estructurado y listo para implementarse en Java.
-![Diagrama de clases](Diagrama de clases.jpg)
+![Diagrama de clases.jpg](https://github.com/JesusPastor96/Actividad3-JesusPastorRicoy/blob/main/Diagrama%20de%20clases.jpg))
 
 ## 5. Justificación del diseño
 
