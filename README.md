@@ -124,8 +124,7 @@ Se identifican las interacciones clave entre los actores y el sistema, agrupadas
 - Composición: Torneo — Partidas, Torneo — Premios
 - Dependencia: Vistas → Controladores
 
-![Diagrama de casos de uso]([Actividad3-JesusPastorRicoy
-/Diagrama casos de uso.jpg](https://github.com/JesusPastor96/Actividad3-JesusPastorRicoy/blob/main/Diagrama%20casos%20de%20uso.jpg))
+![Diagrama de casos de uso](https://github.com/JesusPastor96/Actividad3-JesusPastorRicoy/blob/main/Diagrama%20casos%20de%20uso.jpg)
 
 ## 4. Creación del diagrama de clases UML
 
@@ -148,7 +147,7 @@ Cada clase incluye:
   - Dependencias (línea discontinua)
 
 El resultado es un diseño coherente, estructurado y listo para implementarse en Java.
-![Diagrama de clases.jpg](https://github.com/JesusPastor96/Actividad3-JesusPastorRicoy/blob/main/Diagrama%20de%20clases.jpg))
+![Diagrama de clases.jpg](https://github.com/JesusPastor96/Actividad3-JesusPastorRicoy/blob/main/Diagrama%20de%20clases.jpg)
 
 ## 5. Justificación del diseño
 
