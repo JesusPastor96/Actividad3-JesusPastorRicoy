@@ -127,7 +127,7 @@ Se identifican las interacciones clave entre los actores y el sistema, agrupadas
 - Dependencia: Vistas → Controladores
 
 ---
-![Diagrama de casos de uso](Diagrama de clases de uso.drawio.png)
+![Diagrama de casos de uso](Diagrama casos de uso.jpg)
 ## 4. Creación del diagrama de clases UML
 
 ### Estructura general
@@ -149,7 +149,7 @@ Cada clase incluye:
   - Dependencias (línea discontinua)
 
 El resultado es un diseño coherente, estructurado y listo para implementarse en Java.
-![Diagrama de clases](Diagrama de clases.drawio.png)
+![Diagrama de clases](Diagrama de clases.jpg)
 ---
 
 ## 5. Justificación del diseño
